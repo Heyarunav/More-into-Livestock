@@ -1,5 +1,5 @@
 # More-into-Livestock
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,8 +50,11 @@
         <!-- Video 1 -->
         <div class="section">
             <h2>Video 1: AI in Livestock Safety</h2>
-            <iframe src="https://youtu.be/2fdSLDFCdRssi=5djP0kV3LL97Ldnw"              allowfullscreen></iframe>
+            <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/2fdSLDFCdRssi=5djP0kV3LL97Ldnw" 
+            frameborder="0" allowfullscreen></iframe>
         </div>
+        
 
         <!-- Article 2 -->
         <div class="section">
@@ -62,19 +65,23 @@
         <!-- Video 2 -->
         <div class="section">
             <h2>Video 2: Technology for Animal Security</h2>
-            <iframe src="https://youtu.be/TydfT1uF9_M?si=T4vaudeRDUUDmCR5" allowfullscreen></iframe>
+            <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/TydfT1uF9_M" 
+            frameborder="0" allowfullscreen></iframe>
         </div>
 
         <!-- Article 3 -->
         <div class="section">
             <h2>Article 3: GPS & Sensors in Farming</h2>
-            <iframe src="https://nexocode.com/blog/posts/ai-based-smart-farming-machine-learning-in-livestock-farming/"></iframe>
+            <iframe src="https://wiseias.com/ai-in-livestock-farming/"></iframe>
         </div>
 
         <!-- Video 3 -->
         <div class="section">
             <h2>Video 3: Future of Smart Farming</h2>
-            <iframe src="https://youtu.be/QrAYIjncW9w?si=xYnXcmuh1ruINVPy" allowfullscreen></iframe>
+            <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/QrAYIjncW9w"
+            frameborder="0" allowfullscreen></iframe>
         </div>
 
     </div>
