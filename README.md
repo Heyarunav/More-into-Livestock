@@ -50,9 +50,10 @@
         <!-- Video 1 -->
         <div class="section">
             <h2>Video 1: AI in Livestock Safety</h2>
-            <iframe width="560" height="315"
-            src="https://youtu.be/2fdSLDFCdRs?si=lLw5gAQ6Xl4r-qW6"
-            frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/https://www.youtube.com/embed/2fdSLDFCdRssi- 
+            5djP0kV3LL97Ldnw?rel=0" 
+            frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
         
 
